@@ -1,8 +1,11 @@
 to create a new file and see
 second line check
+<<<<<<< HEAD
 
 Happy new year
 
 To see the new changes done
 
 To see the change12345566 done
+=======
+>>>>>>> parent of 22300b6 (new change)
